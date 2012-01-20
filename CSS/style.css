@@ -6,7 +6,7 @@
 	
 /*  additem.htmal  */
 	
-Body{ 
+/*Body{ 
 	background-color: #284767;
 	color:#284767;
 	font: 13px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
@@ -160,7 +160,7 @@ label{
 	margin-bottom: 5px;
 }
 
-/*  index.html  */
+/*  index.html  *!/
 
 #search{
 	position: static;
@@ -228,4 +228,4 @@ label{
 	margin-bottom: -10px;
 	width: 410px;
 }
-
+*/
